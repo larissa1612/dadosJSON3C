@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "calça jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/teste.jpg"
+    }
+    {
+        "nome": "camiseta Básica",
+        "tamanho": "M",
+        "preco": 29.99,
+        "imagem": "img/camiseta.jpeg"
+    }
+    {
+        "nome":"jaqueta de Couro",
+        "tamanho": "M",
+        "preco": 200.00,
+        "imagem": "img/jaqueta.jpeg"
+    }
+    {
+        "nome":"calça social preta",
+        "tamanho": "40",
+        "preco": 250.00,
+        "imagem": "img/calça.jpeg"
+    }
+    {
+        "nome":"camisa social cinza escura",
+        "tamanho":"G",
+        "preco": 200.00,
+        "imagem": "img/camisa.jpeg"
+    }
+    {
+        "nome": "suspensório preto",
+        "tamanho": "16",
+        "preco": 50.00,
+        "imagem":"img/suspensório.jpeg"
+    }
+]
